@@ -1,0 +1,14 @@
+D:\22.11.5321\semester 2\pertemuan6\TugasKelompok\TugasKelompok\bin\Debug\TugasKelompok.exe.config
+D:\22.11.5321\semester 2\pertemuan6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.csprojResolveAssemblyReference.cache
+D:\22.11.5321\semester 2\pertemuan6\TugasKelompok\TugasKelompok\bin\Debug\TugasKelompok.exe
+D:\22.11.5321\semester 2\pertemuan6\TugasKelompok\TugasKelompok\bin\Debug\TugasKelompok.pdb
+D:\22.11.5321\semester 2\pertemuan6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.exe
+D:\22.11.5321\semester 2\pertemuan6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.pdb
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\bin\Debug\TugasKelompok.exe.config
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\bin\Debug\TugasKelompok.exe
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\bin\Debug\TugasKelompok.pdb
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.csproj.AssemblyReference.cache
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.csproj.SuggestedBindingRedirects.cache
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.csproj.CoreCompileInputs.cache
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.exe
+D:\Doc informartika\semester 2\pemrograman\minggu6\TugasKelompok\TugasKelompok\obj\Debug\TugasKelompok.pdb
